@@ -1,0 +1,2 @@
+This is a simple shell written in C. Every time we enter some words it checks if it is a command then it sends a signal to kernel.
+Otherwise it prints "No such command".
